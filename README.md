@@ -1,2 +1,10 @@
 # wifiscan
-wifi scan
+
+
+### Install:
+
+    sudo pip install pywifi
+
+### Run:
+
+    sudo python3 wifiscan.py
